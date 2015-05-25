@@ -1,9 +1,9 @@
 
 ### Vagrant-for-AnalyzeSnavLog
 
-share/log
+share/log/*
 !share/log/.gitkeep
-share/output
+share/output/*
 !share/output/.gitkeep
 
 
