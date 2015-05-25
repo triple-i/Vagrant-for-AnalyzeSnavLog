@@ -1,2 +1,12 @@
 # Vagrant-for-AnalyzeSnavLog
-AnalyzeSnavLog を Vagrant で使用するための設定ツール
+Vagrant tools for use with [AnalyzeSnavLog](https://github.com/triple-i/AnalyzeSnavLog). 
+
+# Usage
+
+only vagrant up command.
+
+```
+$ vagrant up
+```
+
+
